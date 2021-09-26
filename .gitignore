@@ -1,3 +1,6 @@
+.env
+prompt.md
+
 # Logs
 logs
 *.log
